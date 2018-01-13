@@ -3,7 +3,7 @@
 start the backend
 
 ```
- git clone ..
+ git clone git@github.com:idev4u/tvjs-example.git
 ```
 
 ```
