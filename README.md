@@ -7,5 +7,5 @@ start the backend
 ```
 
 ```
-ruby -run -ehttpd ./tvjs-client/tvjs-client/tv-app-server/ -p9001
+ruby -run -ehttpd ./tvjs-client/tv-app-server/ -p9001
 ```
